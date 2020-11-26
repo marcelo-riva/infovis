@@ -14,3 +14,6 @@ https://marcelo-riva.github.io/infovis/mom_w46_flourish.html
 
 ## mom wk_47 | tableau
 https://marcelo-riva.github.io/infovis/mom_w47_tableau.html
+
+## vega-lite example
+https://marcelo-riva.github.io/infovis/vega-lite-example.html
