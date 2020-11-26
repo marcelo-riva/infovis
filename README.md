@@ -11,3 +11,6 @@ https://marcelo-riva.github.io/infovis/mom_w46.html
 
 ## mom wk_46 | flourish
 https://marcelo-riva.github.io/infovis/mom_w46_flourish.html
+
+## mom wk_47 | tableau
+https://marcelo-riva.github.io/infovis/mom_w47_tableau.html
