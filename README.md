@@ -17,3 +17,7 @@ https://marcelo-riva.github.io/infovis/mom_w47_tableau.html
 
 ## vega-lite example
 https://marcelo-riva.github.io/infovis/vega-lite-example.html
+
+
+## TP - Final - Duermete Niño
+https://marcelo-riva.github.io/infovis/tp-final.html
